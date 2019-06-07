@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Maintenance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Maintenance_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Maintenance.jar">
+        <element id="module-output" name="Maintenance" />
+      </element>
+      <element id="library" level="project" name="Spigot-1.10.2" />
+    </root>
+  </artifact>
+</component>
