@@ -1,0 +1,7 @@
+main: net.coddev.cdm.Maintenance
+name: CDMaintenance
+version: 1.0
+commands:
+  maintenance:
+    description: Gere les maintenance
+    usage: /maintenance
